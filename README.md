@@ -1,4 +1,4 @@
-# 🍕 Pizza Sales Analysis Dashboard - 2026
+# 🍕 Pizza Sales Analysis Dashboard - 2025
 
 This project is an interactive Power BI dashboard created to analyze pizza sales performance. 
 It provides insights into revenue, orders, pizza categories, and size distribution.
